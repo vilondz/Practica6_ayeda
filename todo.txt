@@ -1,2 +1,8 @@
-saber que son los arboles 
-hacer practica
+hacer inorden
+sobrecarga del operador de insercion
+insercion ABB
+busqueda ABB
+incersion ABE 
+busqueda ABE 
+Hacer el main 
+
